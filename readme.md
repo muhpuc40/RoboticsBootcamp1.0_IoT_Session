@@ -129,8 +129,8 @@ This system allows you to display live sensor data, store it in a database, and 
 2. Connect your **ESP32** to Wi-Fi
 3. Open:
 
-   - Local dashboard: [http://localhost/index.php](http://localhost/index.php)
-   - Live graph: [http://localhost/graph.html](http://localhost/graph.html)
+   - Local dashboard: [http://localhost/RoboticsBootcamp/index.php](http://localhost/RoboticsBootcamp)
+   - Live graph: [http://localhost/RoboticsBootcamp/graph.html](http://localhost/RoboticsBootcamp/graph.html)
    - ESP32 WebServer: use the IP shown in Serial Monitor (e.g. `http://192.168.0.120`)
 
 ---
