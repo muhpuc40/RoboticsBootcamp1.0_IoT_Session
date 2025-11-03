@@ -24,12 +24,15 @@ This system allows you to display live sensor data, store it in a database, and 
 │   ├── 📂 libraries/
 │
 ├── 📂 xampp/
-│   └── htdocs/
+│   └── 📂 htdocs/
 │       ├── backend.php
 │       ├── index.php
 │       ├── fetch_data.php
 │       ├── graph.html
 │       ├── style.css
+│       |── 📂 Live-Prediction/
+│       |   ├── predict_data.php
+│       |   └── predict.py
 │       └── 📂 webserver/
 │           └── index.html
 ```
